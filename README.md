@@ -37,8 +37,8 @@ _(Replace the `#` with your actual Streamlit Cloud or Hugging Face Spaces URL)_
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Anirudh2857/Stable-Diffusion)
+cd your-Stable-Diffusion
 ```
 
 ### 2. Install Dependencies
