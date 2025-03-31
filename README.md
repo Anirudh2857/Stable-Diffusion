@@ -9,7 +9,7 @@ This project is ideal for creative professionals, artists, marketers, and develo
 ## 🚀 Live Demo
 
 👉 [Click here to try the app](https://stable-diffusion-9kxsm49vanvnixpqq8gxce.streamlit.app)  
-_(Replace the `#` with your actual Streamlit Cloud or Hugging Face Spaces URL)_
+
 
 ---
 
